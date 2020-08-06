@@ -1,11 +1,11 @@
 def square_array(array)
   # your code here
-  new_array=[]
+  new_array = []
   array.each do |numbers|
 end
 
-numbers=numbers**2 
-newArray<<numbers 
+numbers = numbers**2 
+new_array << numbers 
 end     
-newArray  
+new_array  
 end     
