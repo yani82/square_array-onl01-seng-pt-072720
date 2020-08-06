@@ -4,8 +4,8 @@ def square_array(array)
   array.each do |numbers|
 end
 
-numbers=numbers**2 # square
-newArray<<numbers # adding to the newArray
-end     #end for do
-newArray # call 
-end     #end for def
+numbers=numbers**2 
+newArray<<numbers 
+end     
+newArray  
+end     
